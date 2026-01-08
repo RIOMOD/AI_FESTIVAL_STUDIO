@@ -1,0 +1,7 @@
+{
+  "name": "AI Festival Studio 9R",
+  "description": "Professional AI festival photography generator powered by Gemini Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
